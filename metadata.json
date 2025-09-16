@@ -1,0 +1,5 @@
+{
+  "name": "BiteBase - AI Restaurant Market Research",
+  "description": "An AI-powered market research dashboard for the restaurant industry. Analyze competitors, customer density, and market trends with a conversational AI Copilot that understands your dashboard's state in real-time.",
+  "requestFramePermissions": []
+}
